@@ -1,0 +1,33 @@
+-----------
+git
+-----------
+
+. version control tool
+. saves different version of same files
+. efficient
+. saves memory
+
+
+-----------
+github
+-----------
+
+. for collaboration
+. can create pull requests
+. two types of repositories:
+    . public --> anyone can access
+    . private --> need to give persmission
+
+
+-----------
+basic commands
+-----------
+
+git add 
+git commit 
+git push 
+git pull  --> fetch the latest changes from remote (cloud)
+
+git pull ---> git fetch + git rebase 
+
+git checkout --> to checkout specific branch
